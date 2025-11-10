@@ -35,7 +35,7 @@
 
 
 
-### W środowisku ns-dev aplikacje mogą być uruchamiane bez zdefiniowanych żądań i limitów, a także muszą nie mogą zużywać więcej niż 0.2 rdzenia procesora i 256 Mi pamięci  Dlatego też tworzę LimitRange dla tego namespace w pliku YAML, a w nim zapisuję domyślne żądanie zasobów i wspomniane zasoby maksymalne. Wartość maksymalna stanie się jednocześnie wartością domyślną limitu zasobów.
+### W środowisku ns-dev aplikacje mogą być uruchamiane bez zdefiniowanych żądań i limitów, a także nie mogą zużywać więcej niż 0.2 rdzenia procesora i 256 Mi pamięci  Dlatego też tworzę LimitRange dla tego namespace w pliku YAML, a w nim zapisuję domyślne żądanie zasobów i wspomniane zasoby maksymalne. Wartość maksymalna stanie się jednocześnie wartością domyślną limitu zasobów.
 
 ![Krok 6](images/screen_6.png)
 
