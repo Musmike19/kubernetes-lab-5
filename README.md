@@ -30,7 +30,7 @@
 
 ### Aplikuję plik YAML i sprawdzam poprawność konfiguracji.
 
-![Krok 5](images/screen_4.png)
+![Krok 5](images/screen_5.png)
 
 
 
